@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725387970586",
+    "project_id": "pdda2-ccfdb",
+    "storage_bucket": "pdda2-ccfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725387970586:android:8d5e01b443bebfbf8f29a3",
+        "android_client_info": {
+          "package_name": "com.example.pdda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725387970586-b4t1nkjvg4ea36g87lu1q5tii6juba1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3YeFWU7PjrUFhiSfcFMq3XsqOWQANhF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725387970586-b4t1nkjvg4ea36g87lu1q5tii6juba1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
